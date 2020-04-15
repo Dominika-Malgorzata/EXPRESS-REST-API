@@ -15,7 +15,9 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11",
-    "regenerator-runtime": "latest"
+    "regenerator-runtime": "latest",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
